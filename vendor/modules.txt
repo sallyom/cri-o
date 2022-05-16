@@ -541,7 +541,7 @@ github.com/google/gofuzz
 # github.com/google/renameio v1.0.0
 ## explicit
 github.com/google/renameio
-# github.com/google/uuid v1.2.0
+# github.com/google/uuid v1.3.0
 ## explicit
 github.com/google/uuid
 # github.com/googleapis/gnostic v0.4.1
