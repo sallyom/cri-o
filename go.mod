@@ -16,7 +16,7 @@ require (
 	github.com/containers/common v0.36.0
 	github.com/containers/conmon v2.0.20+incompatible
 	github.com/containers/image/v5 v5.11.0
-	github.com/containers/ocicrypt v1.1.1
+	github.com/containers/ocicrypt v1.1.7
 	github.com/containers/podman/v3 v3.1.0
 	github.com/containers/storage v1.28.1
 	github.com/coreos/go-systemd/v22 v22.3.1
@@ -39,7 +39,7 @@ require (
 	github.com/onsi/ginkgo v1.16.1
 	github.com/onsi/gomega v1.11.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.2-0.20200206005212-79b036d80240
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/opencontainers/runc v1.0.0-rc93
 	github.com/opencontainers/runtime-spec v1.0.3-0.20201121164853-7413a7f753e1
 	github.com/opencontainers/runtime-tools v0.9.1-0.20200121211434-d1bf3e66ff0a
